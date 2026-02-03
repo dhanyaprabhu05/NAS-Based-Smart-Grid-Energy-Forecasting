@@ -40,6 +40,7 @@ Diya D Bhat- https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya/tree/main/
 
 ## Running the project
 **REQUIRES GPU ACCESS AS THE TRAINING PART TAKES VERY LONG TO COMPLETE DUE TO THE DATASET BEING TOO VAST**
+
 **Step 1:** 
 Clone the repository.(Alternately you can even download the entire folder as zip)
 

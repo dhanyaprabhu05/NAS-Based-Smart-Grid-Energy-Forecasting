@@ -40,10 +40,6 @@ Link to access  the dataset: https://www.kaggle.com/datasets/mexwell/household-l
 **Step 1:** 
 Clone the repository.(Alternately you can even download the entire folder as zip)
 
-git clone https://github.com/pes2ug23cs169/ML_C_PES2UG23CS169_Dhanya.git
-
-cd ML_C_PES2UG23CS169_Dhanya/Assignment
-
 **Step 2:**
 If you have clean data (household_data_15min_clean.csv), place it in the project folder. 
 If using raw data, run the preprocessing cells in the notebook to clean and format it.\
